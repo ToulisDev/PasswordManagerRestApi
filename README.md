@@ -176,9 +176,9 @@ Project Link: [https://github.com/ToulisDev/PasswordManagerRestApi](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/ToulisDev/PasswordManagerRestApi.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ToulisDev/PasswordManagerRestApi?style=for-the-badge
 [issues-url]: https://github.com/ToulisDev/PasswordManagerRestApi/issues
-[license-shield]: https://img.shields.io/github/license/ToulisDev/PasswordManagerRestApi.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/ToulisDev/PasswordManagerRestApi?style=for-the-badge
 [license-url]: https://github.com/ToulisDev/PasswordManagerRestApi/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
 [VisualStudio]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
